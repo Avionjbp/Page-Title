@@ -1,0 +1,17 @@
+.header {
+    border: 1px solid red;
+    padding: 20px;
+    background-color:blue;
+}
+
+.odell {
+    display: flex;
+    justify-content: space-around;
+    background-color:red;
+    
+}
+
+img {
+    width:300px;
+    height:400px;
+}
